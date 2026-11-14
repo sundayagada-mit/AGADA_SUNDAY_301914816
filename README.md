@@ -1,7 +1,13 @@
-# SUNDAY AGADA — MIT 8103
+# School Sick-Bay System
 
-Student ID: 301914816
+SUNDAY AGADA · Student ID 301914816
 
-SCHOOL SICK-BAY SYSTEM
+The portfolio uses fictional records for School Sick-Bay System.
 
-The portfolio is being generated. Completed stages will appear in the commit history.
+- [Portfolio 1](portfolio-1-database-design/)
+- [Portfolio 2](portfolio-2-query-optimisation/)
+- [Portfolio 3](portfolio-3-transactions-concurrency/)
+- [Portfolio 4](portfolio-4-nosql/)
+- [Portfolio 5](portfolio-5-distributed-cloud/)
+
+[Final summary](AGADA_SUNDAY_301914816_FinalSummary.md) · [PDF](AGADA_SUNDAY_301914816_FinalSummary.pdf)
